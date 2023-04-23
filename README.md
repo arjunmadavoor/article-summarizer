@@ -16,13 +16,13 @@ A web application that summarizes articles and blog posts using RapidAPI's Artic
 ### Screenshots
 
 #### Screenshort 1
-<img src="images/screenshot1.png" alt="Screenshot" width="800"/>
+<img src="/images/screenshot1.png" alt="Screenshot" width="800"/>
 
 #### Screenshort 2
-<img src="images/screenshot2.png" alt="Screenshot" width="800"/>
+<img src="/images/screenshot2.png" alt="Screenshot" width="800"/>
 
 #### Screenshort 3
-<img src="images/screenshot3.png" alt="Screenshot" width="300" height="500"/>
+<img src="/images/screenshot3.png" alt="Screenshot" width="300" height="500"/>
 
 ## Acknowledgements
 
