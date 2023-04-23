@@ -4,7 +4,7 @@ A web application that summarizes articles and blog posts using RapidAPI's Artic
 
 ## Demo
 
-url here
+[Live Demo](https://guileless-empanada-b891c2.netlify.app/)
 
 ## Features
 
