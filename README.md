@@ -2,8 +2,6 @@
 
 A web application that summarizes articles and blog posts using RapidAPI's Article Extractor and Summarizer API. Built using React, Redux, Tailwind CSS, and Vite.
 
-This is a article summarize website using Article Extractor and Summarizer API (https://rapidapi.com/restyler/api/article-extractor-and-summarizer). And this project is created by watching the tutorials of Javascript Mastery (https://www.jsmastery.pro/)
-
 ## Demo
 
 url here
@@ -15,15 +13,16 @@ url here
 - Clean, responsive UI with Tailwind CSS
 - Deployed on Netlify
 
-### Screenshot
+### Screenshots
 
-###
-![](./images/Screenshot1.png)
-###
-![](./images/Screenshot2.png)
-###
-![](./images/Screenshot3.png)
+#### Screenshort 1
+<img src="images/screenshot1.png" alt="Screenshot" width="800"/>
 
+#### Screenshort 2
+<img src="images/screenshot2.png" alt="Screenshot" width="800"/>
+
+#### Screenshort 3
+<img src="images/screenshot3.png" alt="Screenshot" width="300" height="500"/>
 
 ## Acknowledgements
 
