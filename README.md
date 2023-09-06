@@ -1,4 +1,4 @@
-# Article Summarizer
+# Article Summarizer:
 
 A web application that summarizes articles and blog posts using RapidAPI's Article Extractor and Summarizer API. Built using React, Redux, Tailwind CSS, and Vite.
 Added Firebase for auth - 28-06-2023
