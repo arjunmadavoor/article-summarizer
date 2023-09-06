@@ -13,6 +13,7 @@ Added Firebase for auth - 28-06-2023
 - Localstorage for storing recent search URLs
 - Clean, responsive UI with Tailwind CSS
 - Deployed on Netlify
+- 
 
 ### Screenshots
 
