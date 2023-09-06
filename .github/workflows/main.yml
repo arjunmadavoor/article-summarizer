@@ -1,4 +1,8 @@
-on: [push]
+name: Deploy SA Framework to DEV
+'on':
+  push:
+    branches:
+      - main
 
 jobs:
   zap_scan:
